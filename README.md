@@ -30,10 +30,11 @@ PPT will be Posted here
 Attached soon !
 
 ## FeedBack
+Feel free to file an issue if you come across any bugs
 
 ## Contributors
-* [MANSI](https://github.com/BAnurag)
-* [B Anurag](https://github.com/MansiAmaira)
+* [MANSI](https://github.com/MansiAmaira)
+* [B Anurag](https://github.com/BAnurag)
 *  MohitSaini
 
 
