@@ -13,12 +13,12 @@
 This is the Platform Which Provide opportunities for one to seek job or open businesses.Poeple can post their Resume. They can share their Skill.Many Companies recruit individual and open Vacanciesfor them.
 
 ## Technology Stack
-*Node.JS
-*React-Redux
-*CSS
-Socket-io
-*Mongo DB
-*Express
+* Node.JS
+* React-Redux
+* CSS
+*  Socket-io
+* Mongo DB
+* Express
 
 ## Demo Video
 will be Available soon
