@@ -1,13 +1,13 @@
 # Team - WebVoice
 # &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **"CAREER PRO"**
 ## Contents
-1. Introduction
-2. Technology Stack
-3. Demo Video
-4. Presentation Link
-5. ScreenShot
-6. FeedBack
-7. Contributors
+1. [Introduction](https://github.com/MansiAmaira/WebVoice#introduction)
+2. [Technology Stack](https://github.com/MansiAmaira/WebVoice#technology-stack)
+3. [Demo Video](https://github.com/MansiAmaira/WebVoice#demo-video)
+4. [Presentation Link](https://github.com/MansiAmaira/WebVoice#presentation-link)
+5. [ScreenShot](https://github.com/MansiAmaira/WebVoice#screenshot)
+6. [FeedBack](https://github.com/MansiAmaira/WebVoice#feedback)
+7. [Contributors](https://github.com/MansiAmaira/WebVoice#contributors)
 
 ## Introduction
 This is the Platform Which Provide opportunities for one to seek job or open businesses.Poeple can post their Resume. They can share their Skill.Many Companies recruit individual and open Vacanciesfor them.
